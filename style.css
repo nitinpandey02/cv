@@ -1,0 +1,108 @@
+a{
+	text-decoration:none;
+}
+
+a:hover{
+	color:#ff99ff;
+	
+}
+
+h1{
+	color:#1f1f7a;
+	text-align:center;
+	padding-top:60px;
+	font-family: 'Dancing Script', cursive;
+	font-size:50px;
+	padding-bottom:40px;
+}
+h2{
+	color:#330033;
+	text-align:center;
+	font-family: 'Dancing Script', cursive;
+	font-size:50px;
+	padding-bottom:40px;
+}
+body{
+	background-color:#e6ffff;
+	font-family: system-ui;
+	
+}
+.about{
+	margin-bottom:50px;
+	text-align:center;
+}
+.hobby{
+	text-align:center;
+	color:#cc0052;
+}
+.name{
+	text-decoration:underline;
+}
+
+h3{
+	font-size:30px;
+	text-decoration:underline;
+	color:#1f1f7a;
+}
+
+.headm{
+	margin-bottom:200px;
+	background-color:#66ffff;
+	height:80px;
+	width:1340px;
+	position:fixed;
+}
+.home{
+	position:absolute;
+	right:300px;
+	bottom:0px;
+}
+
+.mcontact{
+	text-decoration:underline;
+	color:#661aff;
+	text-align:center;
+}
+.name1{
+	position:absolute;
+	left:100px;
+	font-family: 'Dancing Script', cursive;
+}
+p{
+	font-size:20px;
+	font-family: cursive;
+	line-height:60px;
+	color:#cc0052;
+}
+
+.cloud-img{
+	margin-right:280px;
+	margin-left:30px;
+}
+
+.web-img{
+	margin-right:280px;
+	margin-left:30px;
+}
+
+hr{
+	margin:100px 100px 100px 100px;
+	border:2px dotted;
+	border-width:9px;
+	color: #bfbfbf;
+	border-color: #bfbfbf;
+}
+.skill{
+	text-align:center;
+	color:#cc0052
+}
+.contact{
+	text-align:center;
+	height:250px;
+	width;300px;
+	background-color:#0059b3;
+}
+
+.main-contact{
+	color:#e6ffff;
+}
